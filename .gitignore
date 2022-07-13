@@ -1,0 +1,8 @@
+/terraform-aws-dev/.terraform/
+/terraform-aws-dev/.terraform.lock.hcl
+/terraform-aws-dev/.terraform.tfstate.lock.info
+/terraform-aws-dev/terraform.tfstate
+/terraform-aws-dev/terraform.tfstate.backup
+/terraform-aws-dev/variables-secure.tf
+desktop.ini
+Thumbs.db
